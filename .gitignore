@@ -1,0 +1,4 @@
+*.out
+*.o
+leds-test
+lcd-test
